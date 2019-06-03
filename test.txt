@@ -1,2 +1,0 @@
-/content/darknet/data/Penrose/Img_5.jpg
-/content/darknet/data/Penrose/Img_6.jpg
