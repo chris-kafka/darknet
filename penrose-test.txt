@@ -1,6 +1,26 @@
+/content/darknet/data/Penrose/row-1-col-2.jpg
+/content/darknet/data/Penrose/row-1-col-3.jpg
+/content/darknet/data/Penrose/row-1-col-5.jpg
+/content/darknet/data/Penrose/row-1-col-6.jpg
+/content/darknet/data/Penrose/row-2-col-1.jpg
+/content/darknet/data/Penrose/Img_e_part_008.jpg
+/content/darknet/data/Penrose/Img_e_part_013.jpg
+/content/darknet/data/Penrose/Img_e_part_014.jpg
+/content/darknet/data/Penrose/Img_101 (60).jpg
+/content/darknet/data/Penrose/Img_101 (61).jpg
+/content/darknet/data/Penrose/Img_101 (63).jpg
+/content/darknet/data/Penrose/Img_101 (67).jpg
+/content/darknet/data/Penrose/Img_101 (68).jpg
+/content/darknet/data/Penrose/Img_101 (70).jpg
+/content/darknet/data/Penrose/Img_101 (8).jpg
+/content/darknet/data/Penrose/Img_101 (82).jpg
+/content/darknet/data/Penrose/image_part_019 (3).jpg
+/content/darknet/data/Penrose/image_part_019 (4).jpg
 /content/darknet/data/Penrose/image_part_019.jpg
 /content/darknet/data/Penrose/image_part_020 (3).jpg
+/content/darknet/data/Penrose/image_part_020 (4).jpg
+/content/darknet/data/Penrose/image_part_021 (2).jpg
 /content/darknet/data/Penrose/image_part_021 (3).jpg
+/content/darknet/data/Penrose/image_part_021 (4).jpg
+/content/darknet/data/Penrose/image_part_021.jpg
 /content/darknet/data/Penrose/image_part_022 (2).jpg
-/content/darknet/data/Penrose/Img_6.jpg
-/content/darknet/data/Penrose/Img_17.jpg
