@@ -1,0 +1,64 @@
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 1AD2-CA20
+
+ Verzeichnis von C:\Users\Christopher\OneDrive\Data\Penrose\ImageRecognition\Cutted dataset\New
+
+08.06.2019  11:42    <DIR>          .
+08.06.2019  11:42    <DIR>          ..
+08.06.2019  11:38                24 classes.txt
+08.06.2019  11:22    <DIR>          cut_images_GJvZa6CcguEalos
+08.06.2019  11:23    <DIR>          cut_images_izM5QNCL04pmwHZk
+08.06.2019  11:23    <DIR>          cut_images_wMAqwS85PpfsN8MP
+08.06.2019  11:21            96.560 image_part_001 (2).jpg
+08.06.2019  11:24               152 image_part_001 (2).txt
+08.06.2019  11:21           130.847 image_part_001.jpg
+08.06.2019  11:29               874 image_part_001.txt
+08.06.2019  11:21           110.613 image_part_002 (2).jpg
+08.06.2019  11:29               304 image_part_002 (2).txt
+08.06.2019  11:21           103.543 image_part_002 (3).jpg
+08.06.2019  11:29               342 image_part_002 (3).txt
+08.06.2019  11:21           108.677 image_part_003 (2).jpg
+08.06.2019  11:30               304 image_part_003 (2).txt
+08.06.2019  11:21           111.582 image_part_003 (3).jpg
+08.06.2019  11:30               228 image_part_003 (3).txt
+08.06.2019  11:21            83.373 image_part_004 (3).jpg
+08.06.2019  11:30                76 image_part_004 (3).txt
+08.06.2019  11:21            85.995 image_part_006.jpg
+08.06.2019  11:31                38 image_part_006.txt
+08.06.2019  11:21           106.706 image_part_008 (2).jpg
+08.06.2019  11:31               304 image_part_008 (2).txt
+08.06.2019  11:21           118.670 image_part_008 (3).jpg
+08.06.2019  11:35               570 image_part_008 (3).txt
+08.06.2019  11:21            92.156 image_part_010 (2).jpg
+08.06.2019  11:32               152 image_part_010 (2).txt
+08.06.2019  11:21           101.841 image_part_011 (2).jpg
+08.06.2019  11:32               266 image_part_011 (2).txt
+08.06.2019  11:21            98.874 image_part_014.jpg
+08.06.2019  11:34               380 image_part_014.txt
+08.06.2019  11:21            81.708 image_part_015 (2).jpg
+08.06.2019  11:21           102.520 image_part_015 (3).jpg
+08.06.2019  11:21            89.099 image_part_015.jpg
+08.06.2019  11:21            81.116 image_part_016 (2).jpg
+08.06.2019  11:21            98.059 image_part_016 (3).jpg
+08.06.2019  11:35               342 image_part_016 (3).txt
+08.06.2019  11:21            88.308 image_part_019 (3).jpg
+08.06.2019  11:35               114 image_part_019 (3).txt
+08.06.2019  11:21            87.158 image_part_019.jpg
+08.06.2019  11:36               190 image_part_019.txt
+08.06.2019  11:21            98.979 image_part_020 (3).jpg
+08.06.2019  11:36               304 image_part_020 (3).txt
+08.06.2019  11:21           109.493 image_part_021 (3).jpg
+08.06.2019  11:37               494 image_part_021 (3).txt
+08.06.2019  11:21            99.139 image_part_022 (2).jpg
+08.06.2019  11:37               190 image_part_022 (2).txt
+08.06.2019  11:21            80.858 image_part_022.jpg
+08.06.2019  11:37               114 image_part_022.txt
+08.06.2019  11:21            97.536 image_part_023 (3).jpg
+08.06.2019  11:37               304 image_part_023 (3).txt
+08.06.2019  11:21            87.763 image_part_025 (3).jpg
+08.06.2019  11:38               152 image_part_025 (3).txt
+08.06.2019  11:21            95.375 image_part_032 (2).jpg
+08.06.2019  11:38               304 image_part_032 (2).txt
+08.06.2019  11:42                 0 text.txt
+              52 Datei(en),      2.653.070 Bytes
+               5 Verzeichnis(se), 752.001.998.848 Bytes frei
